@@ -13,5 +13,5 @@ A TypeScript front-end project demonstrating state-driven UI updates, validation
 TypeScript, HTML, CSS, Vite
 
 ## Run locally
-npm install
-npm run dev
+- npm install
+- npm run dev
